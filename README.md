@@ -56,7 +56,8 @@ Desktop application for testing and transforming pointclouds.
 2) Contrôler qu'aucun blocage ne soit actif. 
     - Sélectionner le fichier : bouton droite de la souris puis `Propriétés`
     - Cocher Débloquer : 
-    ![setup-app-secu.jpg](images/setup-app-secu.jpg)
+
+        ![setup-app-secu.jpg](images/setup-app-secu.jpg)
 
 3) Décompresser le dossier et lancer l'application : `bimaps-pointclouds.exe`
 
