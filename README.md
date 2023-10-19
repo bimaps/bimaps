@@ -31,8 +31,6 @@ Desktop application for testing and transforming pointclouds.
 1. Click on `Open folder` for load LAZ files
 2. Choose the options for export (CloudCompare, Potree)
 
-<br>
-
     if you check `Start cmd` you job start after you click on start, Otherwise the script is created without launching
 
 <br>
@@ -43,9 +41,7 @@ Desktop application for testing and transforming pointclouds.
 2. Click on `Check` (at the bottom left)
 3. The status is updated in the `Info` column
 
-<br>
-
-    File reading may take time.
+    `File reading may take time !`
 
 <br>
 
