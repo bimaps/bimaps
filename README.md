@@ -45,17 +45,19 @@ Desktop application for testing and transforming pointclouds.
 
 <br>
 
+
+
 ### Installation (Windows 10/11 x64)
 
-1) Télécharger l'application [bimaps-pointcloud.zip](https://raw.githubusercontent.com/bimaps/bimaps/main/bimaps-pointcloud/bimaps-pointcloud.zip)
+1) Download the application [bimaps-pointcloud.zip](https://raw.githubusercontent.com/bimaps/bimaps/main/bimaps-pointcloud/bimaps-pointcloud.zip)
 
-2) Contrôler qu'aucun blocage ne soit actif. 
-    - Sélectionner le fichier : bouton droite de la souris puis `Propriétés`
-    - Cocher Débloquer : 
+2) Check that no blockage is active.
+    - Select the file : right mouse button on the file then `Properties`
+    - Check Unblock :
 
         ![setup-app-secu.jpg](images/setup-app-secu.jpg)
 
-3) Décompresser le dossier et lancer l'application : `bimaps-pointclouds.exe`
+3) Unzip the folder and launch the application : `bimaps-pointclouds.exe`
 
 <br>
 <br>
