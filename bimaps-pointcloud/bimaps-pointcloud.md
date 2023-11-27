@@ -9,7 +9,7 @@
 
 Desktop application for testing and transforming pointclouds.
 
-![bimaps-pointcloud.png](../images/bimaps-pointcloud.png)
+<br>
 
 ### Quick guide
 
@@ -61,6 +61,11 @@ Desktop application for testing and transforming pointclouds.
         ![setup-app-secu.jpg](../images/setup-app-secu.jpg)
 
 3) Unzip the folder and launch the application : `bimaps-pointclouds.exe`
+
+
+4) Setup config file : "bimaps-pointclouds.json"
+    - Edit file with notepad (or other text editor)
+    - change tempory folder : `tempFolder` (watch out for the double slash `K:\\compact\\`)
 
 <br>
 <br>
